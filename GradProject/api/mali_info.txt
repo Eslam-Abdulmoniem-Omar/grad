@@ -1,0 +1,3 @@
+msedge.exe
+nvrla.exe
+powershell.exe

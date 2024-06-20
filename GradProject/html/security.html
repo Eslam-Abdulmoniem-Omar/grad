@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- ============Icons============= -->
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp"
+      rel="stylesheet"
+    />
+    <!-- ============Css============= -->
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Start Sidebar Section -->
+      <aside>
+        <a href="#" class="logo">
+          <img src="../images/Logo.png" alt="Not-Found" />
+          <h2>scripta</h2>
+        </a>
+
+        <div class="sidebar">
+          <a href="./scripta.html" class="sidebar__link">
+            <span class="material-icons-sharp"> dashboard </span>
+            <h3 class="sidebar__link-name">dashboard</h3>
+          </a>
+          <a href="./security.html" class="sidebar__link active highlight">
+            <span class="material-icons-sharp"> shield </span>
+            <h3 class="sidebar__link-name">security</h3>
+          </a>
+          <div class="toggle">
+            <a href="#malicious&bitlocker" class="sidebar__link">
+              <h3 class="sidebar__link-name">Malicious & BitLocker</h3>
+            </a>
+            <a href="#login-history" class="sidebar__link">
+              <h3 class="sidebar__link-name">Login History
+                </h3>
+            </a>
+            <a href="#actions" class="sidebar__link">
+              <h3 class="sidebar__link-name">Last Added Proc & IP Security
+              </h3>
+            </a>
+          </div>
+          <a href="./process.html" class="sidebar__link">
+            <span class="material-icons-sharp"> account_tree </span>
+            <h3 class="sidebar__link-name">process management</h3>
+          </a>
+          <a href="apps.html" class="sidebar__link ">
+            <span class="material-icons-sharp"> apps </span>
+            <h3 class="sidebar__link-name">apps</h3>
+          </a>
+        </div>
+      </aside>
+      <!-- End Sidebar Section -->
+      <!-- Start Main -->
+      <main>
+        <div class="main-top">
+          <h1 class="main__title">Security</h1>
+          <div class="light-mode">
+            <span class="material-icons-sharp"> light_mode </span>
+            <span class="material-icons-sharp"> dark_mode </span>
+          </div>
+        </div>
+        <!-- Start malicious section -->
+
+        <section class="malicious-sec" id="malicious&bitlocker">
+          <div class="malicious__table">
+             <h1>Malicious Processes</h1>
+             <table>
+               <thead>
+                 <tr>
+                   <th>Process Name</th>
+                   <th>PID</th>
+                   <th>Memory Usage (KB)</th>
+                 </tr>
+               </thead>
+               <tbody>
+                 <tr>
+                   <td>nvrla.exe</td>
+                   <td>15384</td>
+                   <td>9,268</td>
+                 </tr>
+                 <tr>
+                   <td>msedge.exe</td>
+                   <td>9776</td>
+                   <td>526,532</td>
+                 </tr>
+                 <tr>
+                   <td>msedge.exe</td>
+                   <td>12940</td>
+                   <td>8,528</td>
+                 </tr>
+                 <tr>
+                   <td>msedge.exe</td>
+                   <td>8704</td>
+                   <td>304,892</td>
+                 </tr>
+                 <tr>
+                   <td>msedge.exe</td>
+                   <td>5052</td>
+                   <td>55,780</td>
+                 </tr>
+                 <!-- Add more rows as needed -->
+               </tbody>
+             </table>
+          </div>
+           <div>
+            <h1>BitLocker Status</h1>
+             <div class="bitlocker-card">
+               
+               <div class="first-content">
+                 <p><strong>Status:</strong> success</p>
+                 <p><strong>Encrypted Volumes:</strong></p>
+                 <ul>
+                     <li>D:</li>
+                     <li>C:</li>
+                 </ul>            
+                 </div>
+               <div class="second-content">
+                 <p><strong>Message:</strong> BitLocker-protected volumes found.</p>
+               </div>
+             </div>
+           </div>
+        </section>
+        <!-- Start login-history section -->
+
+        <section class="login-history" id="login-history">
+          <h1>Login History</h1>
+          <div class="login-history_cards">
+              <a class="card" href="#" />
+              <h2>SYSTEM</h2>
+              <p><strong>Domain:</strong> ADHAM</p>
+              <p><strong>Status:</strong> N/A</p>
+              <p><strong>Local Account:</strong> N/A</p>
+              <p><strong>SID:</strong> N/A</p>
+            </a>
+              <a class="card" href="#" />
+              <h2>SYSTEM</h2>
+              <p><strong>Domain:</strong> ADHAM</p>
+              <p><strong>Status:</strong> N/A</p>
+              <p><strong>Local Account:</strong> N/A</p>
+              <p><strong>SID:</strong> N/A</p>
+            </a>
+              <a class="card" href="#" />
+              <h2>SYSTEM</h2>
+              <p><strong>Domain:</strong> ADHAM</p>
+              <p><strong>Status:</strong> N/A</p>
+              <p><strong>Local Account:</strong> N/A</p>
+              <p><strong>SID:</strong> N/A</p>
+            </a>
+              <a class="card" href="#" />
+              <h2>SYSTEM</h2>
+              <p><strong>Domain:</strong> ADHAM</p>
+              <p><strong>Status:</strong> N/A</p>
+              <p><strong>Local Account:</strong> N/A</p>
+              <p><strong>SID:</strong> N/A</p>
+            </a>
+              <a class="card" href="#" />
+              <h2>SYSTEM</h2>
+              <p><strong>Domain:</strong> ADHAM</p>
+              <p><strong>Status:</strong> N/A</p>
+              <p><strong>Local Account:</strong> N/A</p>
+              <p><strong>SID:</strong> N/A</p>
+            </a>
+              <a class="card" href="#" />
+              <h2>SYSTEM</h2>
+              <p><strong>Domain:</strong> ADHAM</p>
+              <p><strong>Status:</strong> N/A</p>
+              <p><strong>Local Account:</strong> N/A</p>
+              <p><strong>SID:</strong> N/A</p>
+            </a>
+              <a class="card" href="#" />
+              <h2>SYSTEM</h2>
+              <p><strong>Domain:</strong> ADHAM</p>
+              <p><strong>Status:</strong> N/A</p>
+              <p><strong>Local Account:</strong> N/A</p>
+              <p><strong>SID:</strong> N/A</p>
+            </a>
+          </div>
+        </section>
+                <!-- Start last  process section -->
+<section class="last-process" id="actions">
+  <h1>Last Added Processes</h1>
+        <div class="process-list">
+            <div class="process-card">
+                <p><strong>File:</strong> Get-ChildItem</p>
+                <p><strong>Created:</strong> Access to the path 'C:\\Windows\\System32\\WebThreatDefSvc' is denied.</p>
+            </div>
+            <div class="process-card">
+                <p><strong>File:</strong> At</p>
+                <p><strong>Created:</strong> line:3 char:14</p>
+            </div>
+            <div class="process-card">
+                <p><strong>File:</strong> +</p>
+                <p><strong>Created:</strong> $files = Get-ChildItem -Path C:\\ -File -Recurse | Sort-Object Cre ...</p>
+            </div>
+            <div class="process-card">
+                <p><strong>File:</strong> +</p>
+                <p><strong>Created:</strong> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+            </div>
+            <div class="process-card">
+                <p><strong>File:</strong> +</p>
+                <p><strong>Created:</strong> CategoryInfo : PermissionDenied: (C:\\Windows\\System32\\WebThreatDefSvc:String) [Get-ChildItem], Unauthor</p>
+            </div>
+            <div class="process-card">
+                <p><strong>File:</strong> +</p>
+                <p><strong>Created:</strong> FullyQualifiedErrorId : DirUnauthorizedAccessError,Microsoft.PowerShell.Commands.GetChildItemCommand</p>
+            </div>
+            <div class="process-card">
+                <p><strong>File:</strong> ----</p>
+                <p><strong>Created:</strong> -------</p>
+            </div>
+            <div class="process-card">
+                <p><strong>File:</strong> C:\\Users\\adham\\Desktop\\project_beta4\\working_api\\apps_info.json</p>
+                <p><strong>Created:</strong> 5/23/2024 2:43:53 PM</p>
+            </div>
+            <!-- Add more process cards as needed -->
+        </div>
+</section>
+
+                <!-- Start Ip Security section -->
+
+
+<section class="ip-security" style="margin-bottom: 5rem;">
+  <h1>IP Security</h1>
+  <div class="ip-security-list">
+      <div class="ip-security-card">
+          <p><strong>IP Address:</strong> 190.109.33.65</p>
+          <p><strong>Process ID:</strong> 5052</p>
+      </div>
+      <div class="ip-security-card">
+          <p><strong>IP Address:</strong> 190.109.33.65</p>
+          <p><strong>Process ID:</strong> 5052</p>
+      </div>
+      <div class="ip-security-card">
+          <p><strong>IP Address:</strong> 190.109.33.65</p>
+          <p><strong>Process ID:</strong> 5052</p>
+      </div>
+      <div class="ip-security-card">
+          <p><strong>IP Address:</strong> 190.109.33.65</p>
+          <p><strong>Process ID:</strong> 5052</p>
+      </div>
+      <div class="ip-security-card">
+          <p><strong>IP Address:</strong> 190.109.33.65</p>
+          <p><strong>Process ID:</strong> 5052</p>
+      </div>
+      <div class="ip-security-card">
+          <p><strong>IP Address:</strong> 183.81.169.238</p>
+          <p><strong>Process ID:</strong> 5052</p>
+      </div>
+      <!-- Add more IP security cards as needed -->
+  </div>
+</section>
+      </main>
+      <!-- End Main -->
+    </div>
+
+    <!-- ======== JS files ========== -->
+    <script src="https://cdn.jsdelivr.net/npm/libs/Chart.js@3.5.1/dist/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script src="../app.js"></script>
+  </body>
+</html>

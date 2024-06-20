@@ -1,0 +1,3509 @@
+{
+    "installed_apps": [
+        {
+            "Name": "Python 3.12.3 Core Interpreter (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Python 3.12.3 Tcl/Tk Support (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Python 3.12.3 Standard Library (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Microsoft Teams Meeting Add-in for Microsoft Office",
+            "Version": "1.23.33412",
+            "Vendor": "Microsoft"
+        },
+        {
+            "Name": "Python 3.12.3 pip Bootstrap (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Python 3.12.3 Development Libraries (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Python 3.12.3 Executables (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Python 3.12.3 Test Suite (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Python 3.12.3 Documentation (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Python 3.12.3 Add to Path (64-bit)",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Office 16 Click-to-Run Extensibility Component",
+            "Version": "16.0.17425.20146",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Office 16 Click-to-Run Licensing Component",
+            "Version": "16.0.17531.20140",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Headers x64",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows App Certification Kit Native Components",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_githubprotocolhandlermsi",
+            "Version": "17.9.34511",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK for Windows Store Apps Metadata",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense Desktop - Other Languages",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_communitysharedmsi",
+            "Version": "17.9.34714",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 XEvent",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK for Windows Store Apps Contracts",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Headers arm",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Facade Windows WinMD Versioned",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Shared Management Objects",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_communitymsires",
+            "Version": "17.9.34511",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+            "Version": "10.0.40219",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664",
+            "Version": "12.0.40664",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense Desktop - en-us",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual Studio Setup Configuration",
+            "Version": "3.9.2148.60653",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows IoT Extension SDK Contracts",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Database Engine Shared",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Tools x64",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows App Certification Kit SupportedApiList x86",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2022 X86 Debug Runtime - 14.38.33135",
+            "Version": "14.38.33135",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Connection Info",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Libs x86",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Analysis Services OLE DB Provider",
+            "Version": "16.0.5143.0",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Connection Info",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.38.33135",
+            "Version": "14.38.33135",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense PPI - en-us",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support",
+            "Version": "16.0.31110",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Headers x86",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Universal CRT Tools x86",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK DirectX x64 Remote",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SSMS Post Install Tasks",
+            "Version": "20.1.10.0",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "VS Script Debugging Common",
+            "Version": "17.0.125.0",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+            "Version": "12.0.40664",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support",
+            "Version": "16.0.31110",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.38.33135",
+            "Version": "14.38.33135",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Common Files",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Tools arm64",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_minshellmsi",
+            "Version": "17.9.34714",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK ARM Desktop Tools",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows Team Extension SDK",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Shared Management Objects Extensions",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Universal CRT Extension SDK",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows Mobile Extension SDK",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Database Engine Services",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinAppDeploy",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Modern Non-Versioned Developer Tools",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK for Windows Store Apps",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Libs arm",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Analysis Services OLE DB Provider",
+            "Version": "16.0.5143.0",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense UAP - Other Languages",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.38.33135",
+            "Version": "14.38.33135",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Integration Services",
+            "Version": "16.0.5491.4",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vcpp_crt.redist.clickonce",
+            "Version": "14.38.33135",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Browser for SQL Server 2022",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows Team Extension SDK Contracts",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Help Viewer 2.3",
+            "Version": "2.3.28307",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_minshellmsires",
+            "Version": "17.9.34511",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense Mobile - en-us",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK DirectX x86 Remote",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+            "Version": "9.0.30729.6161",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense IoT - en-us",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Tools x86",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 DMF",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+            "Version": "9.0.30729.6161",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_filehandler_x86",
+            "Version": "17.9.34714",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Libs x64",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Python Launcher",
+            "Version": "3.12.3150.0",
+            "Vendor": "Python Software Foundation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2022 X64 Debug Runtime - 14.38.33135",
+            "Version": "14.38.33135",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK for Windows Store Apps Tools",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_minshellinteropsharedmsi",
+            "Version": "17.9.34511",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+            "Version": "11.0.61030",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows Desktop Extension SDK Contracts",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Database Engine Shared",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 SQL Diagnostics",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft VSS Writer for SQL Server 2022",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Universal CRT Redistributable",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Universal General MIDI DLS Extension SDK",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Dolby Audio X2 Windows API SDK",
+            "Version": "0.8.8.87",
+            "Vendor": "Dolby Laboratories, Inc."
+        },
+        {
+            "Name": "Windows Desktop Extension SDK",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_communityx64msi",
+            "Version": "17.9.34714",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SDK ARM Additions",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Batch Parser",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 XEvent",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft OLE DB Driver for SQL Server",
+            "Version": "18.7.2.0",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Universal CRT Tools x64",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": null,
+            "Version": null,
+            "Vendor": null
+        },
+        {
+            "Name": "MSI Development Tools",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft SQL Server 2022 RsFx Driver",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Visual Studio 2017 Isolated Shell for SSMS",
+            "Version": "15.0.28307.421",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows App Certification Kit x64",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK for Windows Store Apps Headers",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Shared Management Objects",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Go Programming Language amd64 go1.22.2",
+            "Version": "1.22.2",
+            "Vendor": "https://go.dev"
+        },
+        {
+            "Name": "Universal CRT Headers Libraries and Sources",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Teams Machine-Wide Installer",
+            "Version": "1.5.0.30767",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+            "Version": "12.0.40664",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Shared Management Objects Extensions",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_minshellinteropmsi",
+            "Version": "17.9.34511",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Modern Versioned Developer Tools",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "AccessData FTK Imager",
+            "Version": "4.5.0.3",
+            "Vendor": "AccessData"
+        },
+        {
+            "Name": "Windows SDK EULA",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporations"
+        },
+        {
+            "Name": "Windows IoT Extension SDK",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual Studio Setup WMI Provider",
+            "Version": "3.9.2148.60653",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft SQL Server 2022 Setup (English)",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows Mobile Extension SDK Contracts",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Universal CRT Redistributable",
+            "Version": "10.0.26624",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.38.33135",
+            "Version": "14.38.33135",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_minshellsharedmsi",
+            "Version": "17.9.34511",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+            "Version": "11.0.61030",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Common Files",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server Management Studio Language Pack - English",
+            "Version": "20.1.10.0",
+            "Vendor": "Microsoft Corp."
+        },
+        {
+            "Name": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+            "Version": "11.0.61030",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SDK ARM Redistributables",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 Database Engine Services",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense IoT - Other Languages",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft ODBC Driver 17 for SQL Server",
+            "Version": "17.10.6.1",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_filehandler_amd64",
+            "Version": "17.9.34714",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664",
+            "Version": "12.0.40664",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense UAP - en-us",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Kits Configuration Installer",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft"
+        },
+        {
+            "Name": "Windows SDK Redistributables",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK for Windows Store Apps Libs",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Signing Tools",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Libs arm64",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+            "Version": "11.0.61030",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_CoreEditorFonts",
+            "Version": "17.7.40001",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK Desktop Headers arm64",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft Update Health Tools",
+            "Version": "5.72.0.0",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server 2022 DMF",
+            "Version": "16.0.1000.6",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "SQL Server Management Studio",
+            "Version": "20.1.10.0",
+            "Vendor": "Microsoft Corp."
+        },
+        {
+            "Name": "vs_vswebprotocolselectormsi",
+            "Version": "17.9.34511",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "WinRT Intellisense PPI - Other Languages",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Microsoft SQL Server Compact 3.5 ENU",
+            "Version": "3.5.5386.0",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Windows SDK for Windows Store Managed Apps Libs",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "Application Verifier x64 External Package",
+            "Version": "10.1.22000.832",
+            "Vendor": "Microsoft"
+        },
+        {
+            "Name": "Windows SDK AddOn",
+            "Version": "10.1.0.0",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "vs_FileTracker_Singleton",
+            "Version": "17.9.34714",
+            "Vendor": "Microsoft Corporation"
+        },
+        {
+            "Name": "VMware Workstation",
+            "Version": "17.0.2",
+            "Vendor": "VMware, Inc."
+        }
+    ],
+    "startup_apps": [
+        {
+            "name": "OneDrive",
+            "path": "\"C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe\" /background"
+        },
+        {
+            "name": "MicrosoftEdgeAutoLaunch_3A82551CAA5E2A2E554D81F447EF3834",
+            "path": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start"
+        },
+        {
+            "name": "Free Download Manager",
+            "path": "\"C:\\Program Files\\Softdeluxe\\Free Download Manager\\fdm.exe\" --hidden"
+        },
+        {
+            "name": "com.squirrel.Teams.Teams",
+            "path": "C:\\Users\\adham\\AppData\\Local\\Microsoft\\Teams\\Update.exe --processStart \"Teams.exe\" --process-start-args \"--system-initiated\""
+        },
+        {
+            "name": "LenovoVantage",
+            "path": "C:\\ProgramData\\Lenovo\\Vantage\\Addins\\LenovoCompanionAppAddin\\1.0.0.39\\LenovoVantage.exe"
+        },
+        {
+            "name": "ScreenRec",
+            "path": "C:\\Users\\adham\\AppData\\Local\\StreamingVideoProvider\\ScreenRec_app\\screenrec.exe"
+        }
+    ],
+    "all_process": [
+        {
+            "Process Name": "AdobeIPCBroker",
+            "Process ID": 6336,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 2785280
+        },
+        {
+            "Process Name": "AggregatorHost",
+            "Process ID": 6548,
+            "CPU Usage": 0.171875,
+            "Memory Usage": 2187264
+        },
+        {
+            "Process Name": "AnyDesk",
+            "Process ID": 4976,
+            "CPU Usage": 1.546875,
+            "Memory Usage": 29978624
+        },
+        {
+            "Process Name": "ApplicationFrameHost",
+            "Process ID": 5804,
+            "CPU Usage": 1.234375,
+            "Memory Usage": 24092672
+        },
+        {
+            "Process Name": "audiodg",
+            "Process ID": 22708,
+            "CPU Usage": 7.796875,
+            "Memory Usage": 9273344
+        },
+        {
+            "Process Name": "BatteryWidgetHost",
+            "Process ID": 12868,
+            "CPU Usage": 20.296875,
+            "Memory Usage": 53653504
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 2268,
+            "CPU Usage": 0.1875,
+            "Memory Usage": 8790016
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 4824,
+            "CPU Usage": 3.59375,
+            "Memory Usage": 46620672
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 7768,
+            "CPU Usage": 25.171875,
+            "Memory Usage": 135753728
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 10252,
+            "CPU Usage": 1.609375,
+            "Memory Usage": 39231488
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 17656,
+            "CPU Usage": 48.796875,
+            "Memory Usage": 274964480
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 17780,
+            "CPU Usage": 1.078125,
+            "Memory Usage": 33681408
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 18032,
+            "CPU Usage": 1.515625,
+            "Memory Usage": 7491584
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 18448,
+            "CPU Usage": 50.296875,
+            "Memory Usage": 142147584
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 18744,
+            "CPU Usage": 5.359375,
+            "Memory Usage": 45404160
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 20116,
+            "CPU Usage": 0,
+            "Memory Usage": 12156928
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 21244,
+            "CPU Usage": 0.3125,
+            "Memory Usage": 19333120
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 22012,
+            "CPU Usage": 11.09375,
+            "Memory Usage": 16113664
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 22092,
+            "CPU Usage": 0.03125,
+            "Memory Usage": 1970176
+        },
+        {
+            "Process Name": "BraveCrashHandler",
+            "Process ID": 6248,
+            "CPU Usage": 0.0625,
+            "Memory Usage": 1761280
+        },
+        {
+            "Process Name": "BraveCrashHandler64",
+            "Process ID": 7688,
+            "CPU Usage": 0,
+            "Memory Usage": 1728512
+        },
+        {
+            "Process Name": "CCLibrary",
+            "Process ID": 8140,
+            "CPU Usage": 0,
+            "Memory Usage": 647168
+        },
+        {
+            "Process Name": "CExecSvc",
+            "Process ID": 5004,
+            "CPU Usage": 0,
+            "Memory Usage": 843776
+        },
+        {
+            "Process Name": "cmd",
+            "Process ID": 1780,
+            "CPU Usage": 0,
+            "Memory Usage": 4128768
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 8224,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 25563136
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 10816,
+            "CPU Usage": 0.296875,
+            "Memory Usage": 57733120
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 11020,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 16736256
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 16152,
+            "CPU Usage": 1.0625,
+            "Memory Usage": 34770944
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 18344,
+            "CPU Usage": 0.09375,
+            "Memory Usage": 24862720
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 24168,
+            "CPU Usage": 1.21875,
+            "Memory Usage": 50364416
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 25824,
+            "CPU Usage": 4.6875,
+            "Memory Usage": 166535168
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 25876,
+            "CPU Usage": 0.421875,
+            "Memory Usage": 70356992
+        },
+        {
+            "Process Name": "Code",
+            "Process ID": 25884,
+            "CPU Usage": 0,
+            "Memory Usage": 14622720
+        },
+        {
+            "Process Name": "conhost",
+            "Process ID": 2700,
+            "CPU Usage": 0.265625,
+            "Memory Usage": 5828608
+        },
+        {
+            "Process Name": "conhost",
+            "Process ID": 4456,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 5341184
+        },
+        {
+            "Process Name": "conhost",
+            "Process ID": 11024,
+            "CPU Usage": 0,
+            "Memory Usage": 5476352
+        },
+        {
+            "Process Name": "conhost",
+            "Process ID": 11196,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 5472256
+        },
+        {
+            "Process Name": "conhost",
+            "Process ID": 15724,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 5926912
+        },
+        {
+            "Process Name": "conhost",
+            "Process ID": 15860,
+            "CPU Usage": 1.5,
+            "Memory Usage": 5464064
+        },
+        {
+            "Process Name": "conhost",
+            "Process ID": 21612,
+            "CPU Usage": 0,
+            "Memory Usage": 1351680
+        },
+        {
+            "Process Name": "cscm",
+            "Process ID": 5156,
+            "CPU Usage": 0.453125,
+            "Memory Usage": 3747840
+        },
+        {
+            "Process Name": "csrss",
+            "Process ID": 852,
+            "CPU Usage": 1.34375,
+            "Memory Usage": 2252800
+        },
+        {
+            "Process Name": "csrss",
+            "Process ID": 972,
+            "CPU Usage": 16.546875,
+            "Memory Usage": 3121152
+        },
+        {
+            "Process Name": "ctfmon",
+            "Process ID": 10808,
+            "CPU Usage": 11.546875,
+            "Memory Usage": 47538176
+        },
+        {
+            "Process Name": "dllhost",
+            "Process ID": 7648,
+            "CPU Usage": 0.625,
+            "Memory Usage": 14090240
+        },
+        {
+            "Process Name": "dllhost",
+            "Process ID": 7748,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 2752512
+        },
+        {
+            "Process Name": "dllhost",
+            "Process ID": 19312,
+            "CPU Usage": 0,
+            "Memory Usage": 2011136
+        },
+        {
+            "Process Name": "DolbyDAX2API",
+            "Process ID": 14212,
+            "CPU Usage": 0.4375,
+            "Memory Usage": 30429184
+        },
+        {
+            "Process Name": "dwm",
+            "Process ID": 1476,
+            "CPU Usage": 500.53125,
+            "Memory Usage": 353976320
+        },
+        {
+            "Process Name": "explorer",
+            "Process ID": 9104,
+            "CPU Usage": 121.515625,
+            "Memory Usage": 265457664
+        },
+        {
+            "Process Name": "fdm",
+            "Process ID": 15268,
+            "CPU Usage": 14.984375,
+            "Memory Usage": 94650368
+        },
+        {
+            "Process Name": "fontdrvhost",
+            "Process ID": 1208,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1699840
+        },
+        {
+            "Process Name": "fontdrvhost",
+            "Process ID": 1216,
+            "CPU Usage": 0.953125,
+            "Memory Usage": 6463488
+        },
+        {
+            "Process Name": "helperservice",
+            "Process ID": 2360,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1536000
+        },
+        {
+            "Process Name": "hMailServer",
+            "Process ID": 4860,
+            "CPU Usage": 1.125,
+            "Memory Usage": 16388096
+        },
+        {
+            "Process Name": "HxOutlook",
+            "Process ID": 18908,
+            "CPU Usage": 0.375,
+            "Memory Usage": 45551616
+        },
+        {
+            "Process Name": "HxTsr",
+            "Process ID": 19076,
+            "CPU Usage": 0.453125,
+            "Memory Usage": 10514432
+        },
+        {
+            "Process Name": "Idle",
+            "Process ID": 0,
+            "CPU Usage": null,
+            "Memory Usage": 61440
+        },
+        {
+            "Process Name": "igfxCUIService",
+            "Process ID": 2372,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 2138112
+        },
+        {
+            "Process Name": "igfxEM",
+            "Process ID": 8840,
+            "CPU Usage": 0.484375,
+            "Memory Usage": 3678208
+        },
+        {
+            "Process Name": "IntelCpHDCPSvc",
+            "Process ID": 1960,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 1609728
+        },
+        {
+            "Process Name": "iptray",
+            "Process ID": 16196,
+            "CPU Usage": 24.078125,
+            "Memory Usage": 11157504
+        },
+        {
+            "Process Name": "Lenovo.Modern.ImController",
+            "Process ID": 4336,
+            "CPU Usage": 8.96875,
+            "Memory Usage": 41525248
+        },
+        {
+            "Process Name": "Lenovo.Modern.ImController.PluginHost.Device",
+            "Process ID": 17336,
+            "CPU Usage": 0.515625,
+            "Memory Usage": 22306816
+        },
+        {
+            "Process Name": "LenovoVantage-(DeviceSettingsSystemAddin)",
+            "Process ID": 11580,
+            "CPU Usage": 0.9375,
+            "Memory Usage": 34541568
+        },
+        {
+            "Process Name": "LenovoVantage-(GenericMessagingAddin)",
+            "Process ID": 6576,
+            "CPU Usage": 0.75,
+            "Memory Usage": 21475328
+        },
+        {
+            "Process Name": "LenovoVantage-(IdeaNotebookAddin)",
+            "Process ID": 12892,
+            "CPU Usage": 5.640625,
+            "Memory Usage": 35057664
+        },
+        {
+            "Process Name": "LenovoVantage-(LenovoGamingSystemAddin)",
+            "Process ID": 13900,
+            "CPU Usage": 4.796875,
+            "Memory Usage": 37810176
+        },
+        {
+            "Process Name": "LenovoVantage-(LenovoServiceBridgeAddin)",
+            "Process ID": 17124,
+            "CPU Usage": 0.90625,
+            "Memory Usage": 29212672
+        },
+        {
+            "Process Name": "LenovoVantage-(MultimediaAddin)",
+            "Process ID": 24932,
+            "CPU Usage": 2.046875,
+            "Memory Usage": 36335616
+        },
+        {
+            "Process Name": "LenovoVantage-(SettingsWidgetAddin)",
+            "Process ID": 1096,
+            "CPU Usage": 0.875,
+            "Memory Usage": 27185152
+        },
+        {
+            "Process Name": "LenovoVantage-(VantageCoreAddin)",
+            "Process ID": 12428,
+            "CPU Usage": 2,
+            "Memory Usage": 47312896
+        },
+        {
+            "Process Name": "LenovoVantageService",
+            "Process ID": 6372,
+            "CPU Usage": 8.75,
+            "Memory Usage": 62824448
+        },
+        {
+            "Process Name": "Locator",
+            "Process ID": 1912,
+            "CPU Usage": 0,
+            "Memory Usage": 667648
+        },
+        {
+            "Process Name": "LockApp",
+            "Process ID": 2912,
+            "CPU Usage": 0.84375,
+            "Memory Usage": 16904192
+        },
+        {
+            "Process Name": "LsaIso",
+            "Process ID": 680,
+            "CPU Usage": 0.1875,
+            "Memory Usage": 1400832
+        },
+        {
+            "Process Name": "lsass",
+            "Process ID": 704,
+            "CPU Usage": 6.828125,
+            "Memory Usage": 12013568
+        },
+        {
+            "Process Name": "Memory Compression",
+            "Process ID": 2368,
+            "CPU Usage": 68.375,
+            "Memory Usage": 4734976
+        },
+        {
+            "Process Name": "Microsoft.SharePoint",
+            "Process ID": 21444,
+            "CPU Usage": 0.15625,
+            "Memory Usage": 16732160
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 2068,
+            "CPU Usage": 0.421875,
+            "Memory Usage": 36708352
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 3008,
+            "CPU Usage": 173.9375,
+            "Memory Usage": 726482944
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 3816,
+            "CPU Usage": 23.90625,
+            "Memory Usage": 50290688
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 8104,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 18042880
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 9148,
+            "CPU Usage": 0.21875,
+            "Memory Usage": 22355968
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 9988,
+            "CPU Usage": 231.671875,
+            "Memory Usage": 267960320
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 10924,
+            "CPU Usage": 235.96875,
+            "Memory Usage": 416919552
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 12912,
+            "CPU Usage": 0.125,
+            "Memory Usage": 28438528
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 13308,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 18022400
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 13568,
+            "CPU Usage": 0.3125,
+            "Memory Usage": 36458496
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 13708,
+            "CPU Usage": 0.25,
+            "Memory Usage": 22278144
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 13920,
+            "CPU Usage": 365.296875,
+            "Memory Usage": 265793536
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 13960,
+            "CPU Usage": 0.109375,
+            "Memory Usage": 2256896
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 14116,
+            "CPU Usage": 223.40625,
+            "Memory Usage": 274616320
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 14128,
+            "CPU Usage": 45.734375,
+            "Memory Usage": 29990912
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 14136,
+            "CPU Usage": 5.875,
+            "Memory Usage": 15409152
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 14348,
+            "CPU Usage": 6.65625,
+            "Memory Usage": 47669248
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 14464,
+            "CPU Usage": 6.46875,
+            "Memory Usage": 46682112
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 14524,
+            "CPU Usage": 24.703125,
+            "Memory Usage": 48693248
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 15028,
+            "CPU Usage": 0.96875,
+            "Memory Usage": 52629504
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 15392,
+            "CPU Usage": 2.71875,
+            "Memory Usage": 43548672
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 16288,
+            "CPU Usage": 16.078125,
+            "Memory Usage": 7708672
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 16992,
+            "CPU Usage": 6.265625,
+            "Memory Usage": 95367168
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 17036,
+            "CPU Usage": 1.59375,
+            "Memory Usage": 58806272
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 17240,
+            "CPU Usage": 0.453125,
+            "Memory Usage": 8114176
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 18732,
+            "CPU Usage": 213.3125,
+            "Memory Usage": 680841216
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 20388,
+            "CPU Usage": 0.0625,
+            "Memory Usage": 35672064
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 21736,
+            "CPU Usage": 7.21875,
+            "Memory Usage": 95641600
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 22420,
+            "CPU Usage": 125.421875,
+            "Memory Usage": 421961728
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 24608,
+            "CPU Usage": 0.78125,
+            "Memory Usage": 43655168
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 26032,
+            "CPU Usage": 0.0625,
+            "Memory Usage": 18026496
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 1756,
+            "CPU Usage": 0.09375,
+            "Memory Usage": 7073792
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 2860,
+            "CPU Usage": 32.71875,
+            "Memory Usage": 74498048
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 9608,
+            "CPU Usage": 0.25,
+            "Memory Usage": 9269248
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 11996,
+            "CPU Usage": 2.34375,
+            "Memory Usage": 77725696
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 12480,
+            "CPU Usage": 0.484375,
+            "Memory Usage": 56266752
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 15892,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 2068480
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 17332,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 10092544
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 17636,
+            "CPU Usage": 1.71875,
+            "Memory Usage": 44720128
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 19024,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 2080768
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 20960,
+            "CPU Usage": 5.390625,
+            "Memory Usage": 161722368
+        },
+        {
+            "Process Name": "msedgewebview2",
+            "Process ID": 23772,
+            "CPU Usage": 0.234375,
+            "Memory Usage": 10223616
+        },
+        {
+            "Process Name": "ms-teams",
+            "Process ID": 18624,
+            "CPU Usage": 1.640625,
+            "Memory Usage": 93433856
+        },
+        {
+            "Process Name": "ms-teams",
+            "Process ID": 22636,
+            "CPU Usage": 0,
+            "Memory Usage": 2781184
+        },
+        {
+            "Process Name": "ms-teams",
+            "Process ID": 24232,
+            "CPU Usage": 0,
+            "Memory Usage": 2752512
+        },
+        {
+            "Process Name": "msteamsupdate",
+            "Process ID": 17216,
+            "CPU Usage": 0.640625,
+            "Memory Usage": 7438336
+        },
+        {
+            "Process Name": "ms-teamsupdate",
+            "Process ID": 16484,
+            "CPU Usage": 0.359375,
+            "Memory Usage": 5132288
+        },
+        {
+            "Process Name": "node",
+            "Process ID": 11780,
+            "CPU Usage": 1.25,
+            "Memory Usage": 40689664
+        },
+        {
+            "Process Name": "nvcontainer",
+            "Process ID": 5236,
+            "CPU Usage": 7.296875,
+            "Memory Usage": 13127680
+        },
+        {
+            "Process Name": "nvcontainer",
+            "Process ID": 8752,
+            "CPU Usage": 2.703125,
+            "Memory Usage": 10379264
+        },
+        {
+            "Process Name": "nvcontainer",
+            "Process ID": 8852,
+            "CPU Usage": 64.921875,
+            "Memory Usage": 69140480
+        },
+        {
+            "Process Name": "NVDisplay.Container",
+            "Process ID": 2764,
+            "CPU Usage": 14.4375,
+            "Memory Usage": 22814720
+        },
+        {
+            "Process Name": "NVDisplay.Container",
+            "Process ID": 3668,
+            "CPU Usage": 7.671875,
+            "Memory Usage": 46129152
+        },
+        {
+            "Process Name": "nvfvsdksvc_x64",
+            "Process ID": 15664,
+            "CPU Usage": 0.09375,
+            "Memory Usage": 2256896
+        },
+        {
+            "Process Name": "NVIDIA Share",
+            "Process ID": 12928,
+            "CPU Usage": 0.3125,
+            "Memory Usage": 33550336
+        },
+        {
+            "Process Name": "NVIDIA Share",
+            "Process ID": 13272,
+            "CPU Usage": 61,
+            "Memory Usage": 206131200
+        },
+        {
+            "Process Name": "NVIDIA Share",
+            "Process ID": 13596,
+            "CPU Usage": 28,
+            "Memory Usage": 74452992
+        },
+        {
+            "Process Name": "NVIDIA Web Helper",
+            "Process ID": 9368,
+            "CPU Usage": 2.71875,
+            "Memory Usage": 32444416
+        },
+        {
+            "Process Name": "nvrla",
+            "Process ID": 15768,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 1929216
+        },
+        {
+            "Process Name": "nvsphelper64",
+            "Process ID": 13252,
+            "CPU Usage": 7.421875,
+            "Memory Usage": 3100672
+        },
+        {
+            "Process Name": "OfficeClickToRun",
+            "Process ID": 5024,
+            "CPU Usage": 1.78125,
+            "Memory Usage": 38637568
+        },
+        {
+            "Process Name": "OneApp.IGCC.WinService",
+            "Process ID": 5124,
+            "CPU Usage": 1.015625,
+            "Memory Usage": 38092800
+        },
+        {
+            "Process Name": "OpenConsole",
+            "Process ID": 2272,
+            "CPU Usage": 0.0625,
+            "Memory Usage": 3002368
+        },
+        {
+            "Process Name": "OpenConsole",
+            "Process ID": 24464,
+            "CPU Usage": 0,
+            "Memory Usage": 2314240
+        },
+        {
+            "Process Name": "powershell",
+            "Process ID": 6596,
+            "CPU Usage": 0.234375,
+            "Memory Usage": 58839040
+        },
+        {
+            "Process Name": "powershell",
+            "Process ID": 10960,
+            "CPU Usage": 0.140625,
+            "Memory Usage": 54026240
+        },
+        {
+            "Process Name": "powershell",
+            "Process ID": 20124,
+            "CPU Usage": 0.234375,
+            "Memory Usage": 56520704
+        },
+        {
+            "Process Name": "PresentationFontCache",
+            "Process ID": 9012,
+            "CPU Usage": 0.109375,
+            "Memory Usage": 25243648
+        },
+        {
+            "Process Name": "PresentMon_x64",
+            "Process ID": 15708,
+            "CPU Usage": 17.515625,
+            "Memory Usage": 21291008
+        },
+        {
+            "Process Name": "PresentMon_x64",
+            "Process ID": 15716,
+            "CPU Usage": 14.4375,
+            "Memory Usage": 9838592
+        },
+        {
+            "Process Name": "python",
+            "Process ID": 24132,
+            "CPU Usage": 0.03125,
+            "Memory Usage": 6856704
+        },
+        {
+            "Process Name": "python",
+            "Process ID": 26500,
+            "CPU Usage": 0.0625,
+            "Memory Usage": 7974912
+        },
+        {
+            "Process Name": "RAVBg64",
+            "Process ID": 8684,
+            "CPU Usage": 0.1875,
+            "Memory Usage": 6266880
+        },
+        {
+            "Process Name": "RAVBg64",
+            "Process ID": 13800,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 6148096
+        },
+        {
+            "Process Name": "RAVBg64",
+            "Process ID": 13864,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 6168576
+        },
+        {
+            "Process Name": "RAVCpl64",
+            "Process ID": 13208,
+            "CPU Usage": 0.296875,
+            "Memory Usage": 4435968
+        },
+        {
+            "Process Name": "Registry",
+            "Process ID": 156,
+            "CPU Usage": 0.796875,
+            "Memory Usage": 26574848
+        },
+        {
+            "Process Name": "RtkAudioService64",
+            "Process ID": 3420,
+            "CPU Usage": 0.0625,
+            "Memory Usage": 1822720
+        },
+        {
+            "Process Name": "rundll32",
+            "Process ID": 6788,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 1462272
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 1504,
+            "CPU Usage": 1.703125,
+            "Memory Usage": 8413184
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 4808,
+            "CPU Usage": 0.109375,
+            "Memory Usage": 2789376
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 9028,
+            "CPU Usage": 1.109375,
+            "Memory Usage": 8388608
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 9364,
+            "CPU Usage": 2.578125,
+            "Memory Usage": 20480000
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 13724,
+            "CPU Usage": 2.40625,
+            "Memory Usage": 10903552
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 15384,
+            "CPU Usage": 0.328125,
+            "Memory Usage": 8540160
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 15464,
+            "CPU Usage": 0.46875,
+            "Memory Usage": 6594560
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 16164,
+            "CPU Usage": 0,
+            "Memory Usage": 2523136
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 16828,
+            "CPU Usage": 0.28125,
+            "Memory Usage": 6479872
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 18760,
+            "CPU Usage": 0,
+            "Memory Usage": 2113536
+        },
+        {
+            "Process Name": "RuntimeBroker",
+            "Process ID": 18980,
+            "CPU Usage": 0.0625,
+            "Memory Usage": 2334720
+        },
+        {
+            "Process Name": "SearchFilterHost",
+            "Process ID": 26004,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 2465792
+        },
+        {
+            "Process Name": "SearchHost",
+            "Process ID": 9980,
+            "CPU Usage": 42.234375,
+            "Memory Usage": 288301056
+        },
+        {
+            "Process Name": "SearchIndexer",
+            "Process ID": 12056,
+            "CPU Usage": 12.125,
+            "Memory Usage": 44564480
+        },
+        {
+            "Process Name": "SearchProtocolHost",
+            "Process ID": 12692,
+            "CPU Usage": 0.03125,
+            "Memory Usage": 2899968
+        },
+        {
+            "Process Name": "Secure System",
+            "Process ID": 108,
+            "CPU Usage": 0,
+            "Memory Usage": 188416
+        },
+        {
+            "Process Name": "SecurityHealthService",
+            "Process ID": 10404,
+            "CPU Usage": 0.46875,
+            "Memory Usage": 7823360
+        },
+        {
+            "Process Name": "SecurityHealthSystray",
+            "Process ID": 13064,
+            "CPU Usage": 0,
+            "Memory Usage": 1945600
+        },
+        {
+            "Process Name": "services",
+            "Process ID": 512,
+            "CPU Usage": 4.53125,
+            "Memory Usage": 6279168
+        },
+        {
+            "Process Name": "sfc",
+            "Process ID": 5276,
+            "CPU Usage": 404.421875,
+            "Memory Usage": 1576210432
+        },
+        {
+            "Process Name": "ShellExperienceHost",
+            "Process ID": 22948,
+            "CPU Usage": 2.703125,
+            "Memory Usage": 45035520
+        },
+        {
+            "Process Name": "sihost",
+            "Process ID": 8764,
+            "CPU Usage": 9.09375,
+            "Memory Usage": 6610944
+        },
+        {
+            "Process Name": "smartscreen",
+            "Process ID": 22384,
+            "CPU Usage": 0.03125,
+            "Memory Usage": 3538944
+        },
+        {
+            "Process Name": "smss",
+            "Process ID": 616,
+            "CPU Usage": 0.234375,
+            "Memory Usage": 1118208
+        },
+        {
+            "Process Name": "spoolsv",
+            "Process ID": 4168,
+            "CPU Usage": 0.203125,
+            "Memory Usage": 5324800
+        },
+        {
+            "Process Name": "SpotifyWidgetProvider",
+            "Process ID": 20776,
+            "CPU Usage": 0.4375,
+            "Memory Usage": 12775424
+        },
+        {
+            "Process Name": "sqlceip",
+            "Process ID": 10728,
+            "CPU Usage": 0.78125,
+            "Memory Usage": 41545728
+        },
+        {
+            "Process Name": "sqlservr",
+            "Process ID": 15656,
+            "CPU Usage": 648.109375,
+            "Memory Usage": 496537600
+        },
+        {
+            "Process Name": "sqlwriter",
+            "Process ID": 5296,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 2150400
+        },
+        {
+            "Process Name": "StartMenuExperienceHost",
+            "Process ID": 10028,
+            "CPU Usage": 4.609375,
+            "Memory Usage": 70094848
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1172,
+            "CPU Usage": 11.046875,
+            "Memory Usage": 14974976
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1348,
+            "CPU Usage": 17.1875,
+            "Memory Usage": 10117120
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1408,
+            "CPU Usage": 5.375,
+            "Memory Usage": 2981888
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1564,
+            "CPU Usage": 0,
+            "Memory Usage": 1146880
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1664,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 2691072
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1712,
+            "CPU Usage": 2.734375,
+            "Memory Usage": 7024640
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1720,
+            "CPU Usage": 0.640625,
+            "Memory Usage": 6860800
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1748,
+            "CPU Usage": 0.1875,
+            "Memory Usage": 2998272
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1760,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 2560000
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1772,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 2166784
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1796,
+            "CPU Usage": 0.296875,
+            "Memory Usage": 1839104
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1872,
+            "CPU Usage": 4.25,
+            "Memory Usage": 8065024
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1972,
+            "CPU Usage": 2.09375,
+            "Memory Usage": 3526656
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 1980,
+            "CPU Usage": 0.125,
+            "Memory Usage": 2867200
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2032,
+            "CPU Usage": 0.125,
+            "Memory Usage": 1941504
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2152,
+            "CPU Usage": 0.21875,
+            "Memory Usage": 2039808
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2324,
+            "CPU Usage": 0.203125,
+            "Memory Usage": 1961984
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2336,
+            "CPU Usage": 5.265625,
+            "Memory Usage": 2134016
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2412,
+            "CPU Usage": 25.1875,
+            "Memory Usage": 4091904
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2440,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 1351680
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2536,
+            "CPU Usage": 8.75,
+            "Memory Usage": 3899392
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2812,
+            "CPU Usage": 0.25,
+            "Memory Usage": 1875968
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2820,
+            "CPU Usage": 2.515625,
+            "Memory Usage": 3076096
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2904,
+            "CPU Usage": 0.125,
+            "Memory Usage": 3112960
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2916,
+            "CPU Usage": 0.15625,
+            "Memory Usage": 3624960
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 2960,
+            "CPU Usage": 6.1875,
+            "Memory Usage": 21839872
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3016,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 1323008
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3024,
+            "CPU Usage": 24.296875,
+            "Memory Usage": 2551808
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3060,
+            "CPU Usage": 2.5625,
+            "Memory Usage": 4296704
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3092,
+            "CPU Usage": 16.109375,
+            "Memory Usage": 15904768
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3272,
+            "CPU Usage": 2.609375,
+            "Memory Usage": 3895296
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3312,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1490944
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3676,
+            "CPU Usage": 4.296875,
+            "Memory Usage": 10063872
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3784,
+            "CPU Usage": 0.09375,
+            "Memory Usage": 2547712
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3832,
+            "CPU Usage": 0.140625,
+            "Memory Usage": 1728512
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 3860,
+            "CPU Usage": 0.375,
+            "Memory Usage": 2883584
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4064,
+            "CPU Usage": 1.515625,
+            "Memory Usage": 7077888
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4088,
+            "CPU Usage": 0.109375,
+            "Memory Usage": 2785280
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4180,
+            "CPU Usage": 0.203125,
+            "Memory Usage": 1892352
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4236,
+            "CPU Usage": 3.515625,
+            "Memory Usage": 14110720
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4408,
+            "CPU Usage": 0.734375,
+            "Memory Usage": 2412544
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4444,
+            "CPU Usage": 0.09375,
+            "Memory Usage": 1937408
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4608,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1548288
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4964,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 1409024
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 4988,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1167360
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5060,
+            "CPU Usage": 0.890625,
+            "Memory Usage": 4579328
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5068,
+            "CPU Usage": 0.46875,
+            "Memory Usage": 2678784
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5084,
+            "CPU Usage": 5.265625,
+            "Memory Usage": 26718208
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5092,
+            "CPU Usage": 11.875,
+            "Memory Usage": 19120128
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5100,
+            "CPU Usage": 0.09375,
+            "Memory Usage": 3883008
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5176,
+            "CPU Usage": 0.46875,
+            "Memory Usage": 2949120
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5308,
+            "CPU Usage": 0.625,
+            "Memory Usage": 2052096
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5336,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1265664
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5476,
+            "CPU Usage": 0.140625,
+            "Memory Usage": 2404352
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5484,
+            "CPU Usage": 0.46875,
+            "Memory Usage": 5033984
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5636,
+            "CPU Usage": 0.734375,
+            "Memory Usage": 2375680
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 5936,
+            "CPU Usage": 0.09375,
+            "Memory Usage": 1470464
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 6836,
+            "CPU Usage": 0,
+            "Memory Usage": 6782976
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 6912,
+            "CPU Usage": 29.8125,
+            "Memory Usage": 52170752
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 7640,
+            "CPU Usage": 0.140625,
+            "Memory Usage": 4263936
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 7940,
+            "CPU Usage": 0.03125,
+            "Memory Usage": 2232320
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 8564,
+            "CPU Usage": 1.046875,
+            "Memory Usage": 9748480
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 8884,
+            "CPU Usage": 2.421875,
+            "Memory Usage": 13107200
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 8976,
+            "CPU Usage": 0.03125,
+            "Memory Usage": 2109440
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 9076,
+            "CPU Usage": 10.34375,
+            "Memory Usage": 10063872
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 9152,
+            "CPU Usage": 8.484375,
+            "Memory Usage": 4476928
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 9164,
+            "CPU Usage": 0.6875,
+            "Memory Usage": 5337088
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 9380,
+            "CPU Usage": 0.46875,
+            "Memory Usage": 4337664
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 9464,
+            "CPU Usage": 1.109375,
+            "Memory Usage": 3092480
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 9820,
+            "CPU Usage": 0.03125,
+            "Memory Usage": 2383872
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 9888,
+            "CPU Usage": 0.28125,
+            "Memory Usage": 3174400
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 10080,
+            "CPU Usage": 0,
+            "Memory Usage": 1495040
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 10220,
+            "CPU Usage": 0,
+            "Memory Usage": 1720320
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 10596,
+            "CPU Usage": 0,
+            "Memory Usage": 1830912
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 11864,
+            "CPU Usage": 0.765625,
+            "Memory Usage": 6635520
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 13628,
+            "CPU Usage": 3.625,
+            "Memory Usage": 5263360
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 13836,
+            "CPU Usage": 0.109375,
+            "Memory Usage": 2637824
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 16488,
+            "CPU Usage": 0.125,
+            "Memory Usage": 5537792
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 16744,
+            "CPU Usage": 5.171875,
+            "Memory Usage": 8036352
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 16904,
+            "CPU Usage": 0.984375,
+            "Memory Usage": 3239936
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 17192,
+            "CPU Usage": 0.59375,
+            "Memory Usage": 2093056
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 17544,
+            "CPU Usage": 0.53125,
+            "Memory Usage": 3596288
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 17612,
+            "CPU Usage": 0.578125,
+            "Memory Usage": 3993600
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 17616,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 3485696
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 21652,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 4206592
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 22016,
+            "CPU Usage": 0.109375,
+            "Memory Usage": 2936832
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 22328,
+            "CPU Usage": 0,
+            "Memory Usage": 1122304
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 23484,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1728512
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 23528,
+            "CPU Usage": 0.203125,
+            "Memory Usage": 9129984
+        },
+        {
+            "Process Name": "svchost",
+            "Process ID": 24908,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1265664
+        },
+        {
+            "Process Name": "System",
+            "Process ID": 4,
+            "CPU Usage": 5568.75,
+            "Memory Usage": 65536
+        },
+        {
+            "Process Name": "SystemSettings",
+            "Process ID": 11804,
+            "CPU Usage": 2,
+            "Memory Usage": 133791744
+        },
+        {
+            "Process Name": "SystemSettingsBroker",
+            "Process ID": 328,
+            "CPU Usage": 0.140625,
+            "Memory Usage": 8597504
+        },
+        {
+            "Process Name": "taskhostw",
+            "Process ID": 7468,
+            "CPU Usage": 0.796875,
+            "Memory Usage": 11730944
+        },
+        {
+            "Process Name": "taskhostw",
+            "Process ID": 13688,
+            "CPU Usage": 0.3125,
+            "Memory Usage": 7979008
+        },
+        {
+            "Process Name": "Taskmgr",
+            "Process ID": 11836,
+            "CPU Usage": 98.828125,
+            "Memory Usage": 96686080
+        },
+        {
+            "Process Name": "Teams",
+            "Process ID": 13136,
+            "CPU Usage": 0,
+            "Memory Usage": 12816384
+        },
+        {
+            "Process Name": "Telegram",
+            "Process ID": 23764,
+            "CPU Usage": 1.015625,
+            "Memory Usage": 66543616
+        },
+        {
+            "Process Name": "Telegram.Stub",
+            "Process ID": 22512,
+            "CPU Usage": 0.09375,
+            "Memory Usage": 23838720
+        },
+        {
+            "Process Name": "unsecapp",
+            "Process ID": 11204,
+            "CPU Usage": 0.46875,
+            "Memory Usage": 2863104
+        },
+        {
+            "Process Name": "UserOOBEBroker",
+            "Process ID": 3908,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 2220032
+        },
+        {
+            "Process Name": "Video.UI",
+            "Process ID": 12436,
+            "CPU Usage": 0.078125,
+            "Memory Usage": 21483520
+        },
+        {
+            "Process Name": "vmcompute",
+            "Process ID": 5032,
+            "CPU Usage": 0.1875,
+            "Memory Usage": 4685824
+        },
+        {
+            "Process Name": "vmmemCmZygote",
+            "Process ID": 2508,
+            "CPU Usage": 0,
+            "Memory Usage": 865918976
+        },
+        {
+            "Process Name": "vmnat",
+            "Process ID": 5536,
+            "CPU Usage": 0.21875,
+            "Memory Usage": 2486272
+        },
+        {
+            "Process Name": "vmnetdhcp",
+            "Process ID": 5404,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 8048640
+        },
+        {
+            "Process Name": "vmware-authd",
+            "Process ID": 5352,
+            "CPU Usage": 0.0625,
+            "Memory Usage": 3923968
+        },
+        {
+            "Process Name": "vmware-tray",
+            "Process ID": 16352,
+            "CPU Usage": 0,
+            "Memory Usage": 3948544
+        },
+        {
+            "Process Name": "vmware-usbarbitrator64",
+            "Process ID": 5432,
+            "CPU Usage": 0.15625,
+            "Memory Usage": 3301376
+        },
+        {
+            "Process Name": "vpnclient_x64",
+            "Process ID": 5264,
+            "CPU Usage": 2.40625,
+            "Memory Usage": 36450304
+        },
+        {
+            "Process Name": "WhatsApp",
+            "Process ID": 3292,
+            "CPU Usage": 0.90625,
+            "Memory Usage": 51929088
+        },
+        {
+            "Process Name": "Widgets",
+            "Process ID": 10236,
+            "CPU Usage": 1.078125,
+            "Memory Usage": 8310784
+        },
+        {
+            "Process Name": "WidgetService",
+            "Process ID": 10292,
+            "CPU Usage": 0.234375,
+            "Memory Usage": 4321280
+        },
+        {
+            "Process Name": "WindowsTerminal",
+            "Process ID": 696,
+            "CPU Usage": 0.1875,
+            "Memory Usage": 28266496
+        },
+        {
+            "Process Name": "WindowsTerminal",
+            "Process ID": 16212,
+            "CPU Usage": 0.71875,
+            "Memory Usage": 29888512
+        },
+        {
+            "Process Name": "wininit",
+            "Process ID": 964,
+            "CPU Usage": 0.03125,
+            "Memory Usage": 1544192
+        },
+        {
+            "Process Name": "winlogon",
+            "Process ID": 1040,
+            "CPU Usage": 0.203125,
+            "Memory Usage": 2736128
+        },
+        {
+            "Process Name": "wlanext",
+            "Process ID": 4424,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1032192
+        },
+        {
+            "Process Name": "WmiApSrv",
+            "Process ID": 9700,
+            "CPU Usage": 0.015625,
+            "Memory Usage": 1777664
+        },
+        {
+            "Process Name": "WmiPrvSE",
+            "Process ID": 4660,
+            "CPU Usage": 3.765625,
+            "Memory Usage": 3227648
+        },
+        {
+            "Process Name": "WUDFHost",
+            "Process ID": 1236,
+            "CPU Usage": 0.046875,
+            "Memory Usage": 1601536
+        }
+    ],
+    "last_active_process": [
+        {
+            "Name": "powershell",
+            "StartTime": "/Date(1715441356181)/"
+        },
+        {
+            "Name": "python",
+            "StartTime": "/Date(1715441355836)/"
+        },
+        {
+            "Name": "cmd",
+            "StartTime": "/Date(1715441355611)/"
+        },
+        {
+            "Name": "python",
+            "StartTime": "/Date(1715441355543)/"
+        },
+        {
+            "Name": "powershell",
+            "StartTime": "/Date(1715441344336)/"
+        },
+        {
+            "Name": "OpenConsole",
+            "StartTime": "/Date(1715441344323)/"
+        },
+        {
+            "Name": "WindowsTerminal",
+            "StartTime": "/Date(1715441343291)/"
+        },
+        {
+            "Name": "msedge",
+            "StartTime": "/Date(1715441330030)/"
+        },
+        {
+            "Name": "SearchFilterHost",
+            "StartTime": "/Date(1715440957358)/"
+        },
+        {
+            "Name": "SearchProtocolHost",
+            "StartTime": "/Date(1715440957304)/"
+        }
+    ],
+    "proc_by_cpu": [
+        {
+            "Process Name": "System",
+            "Process ID": 4,
+            "CPU Usage": 5568.75,
+            "Memory Usage": 65536
+        },
+        {
+            "Process Name": "sqlservr",
+            "Process ID": 15656,
+            "CPU Usage": 648.109375,
+            "Memory Usage": 496537600
+        },
+        {
+            "Process Name": "dwm",
+            "Process ID": 1476,
+            "CPU Usage": 500.53125,
+            "Memory Usage": 353976320
+        },
+        {
+            "Process Name": "sfc",
+            "Process ID": 5276,
+            "CPU Usage": 404.453125,
+            "Memory Usage": 1575084032
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 13920,
+            "CPU Usage": 365.296875,
+            "Memory Usage": 265793536
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 10924,
+            "CPU Usage": 235.96875,
+            "Memory Usage": 416919552
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 9988,
+            "CPU Usage": 231.671875,
+            "Memory Usage": 267960320
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 14116,
+            "CPU Usage": 223.40625,
+            "Memory Usage": 274616320
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 18732,
+            "CPU Usage": 213.3125,
+            "Memory Usage": 680841216
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 3008,
+            "CPU Usage": 173.9375,
+            "Memory Usage": 726482944
+        }
+    ],
+    "proc_by_mem": [
+        {
+            "Process Name": "sfc",
+            "Process ID": 5276,
+            "CPU Usage": 404.453125,
+            "Memory Usage": 1575084032
+        },
+        {
+            "Process Name": "vmmemCmZygote",
+            "Process ID": 2508,
+            "CPU Usage": 0,
+            "Memory Usage": 865918976
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 3008,
+            "CPU Usage": 173.9375,
+            "Memory Usage": 722239488
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 18732,
+            "CPU Usage": 213.3125,
+            "Memory Usage": 680841216
+        },
+        {
+            "Process Name": "sqlservr",
+            "Process ID": 15656,
+            "CPU Usage": 648.109375,
+            "Memory Usage": 496537600
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 22420,
+            "CPU Usage": 125.421875,
+            "Memory Usage": 421961728
+        },
+        {
+            "Process Name": "msedge",
+            "Process ID": 10924,
+            "CPU Usage": 235.96875,
+            "Memory Usage": 416919552
+        },
+        {
+            "Process Name": "dwm",
+            "Process ID": 1476,
+            "CPU Usage": 500.53125,
+            "Memory Usage": 353976320
+        },
+        {
+            "Process Name": "SearchHost",
+            "Process ID": 9980,
+            "CPU Usage": 42.234375,
+            "Memory Usage": 288301056
+        },
+        {
+            "Process Name": "brave",
+            "Process ID": 17656,
+            "CPU Usage": 48.796875,
+            "Memory Usage": 274964480
+        }
+    ],
+    "GPU_Info": [
+        {
+            "name": "NVIDIA GeForce GTX 1050",
+            "driver_version": "551.61"
+        }
+    ],
+    "bios_info": {
+        "Name": "4KCN44WW",
+        "Version": "LENOVO - 1",
+        "SMBIOSBIOSVersion": "4KCN44WW"
+    },
+    "cpu_info": {
+        "Manufacturer": "GenuineIntel",
+        "Name": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "CurrentClockSpeed": 2800,
+        "L2CacheSize": 1024
+    },
+    "computer_system_info": {
+        "Name": "ADHAM",
+        "Domain": "WORKGROUP",
+        "Description": "AT/AT COMPATIBLE",
+        "Manufacturer": "LENOVO",
+        "Model": "80WK",
+        "NumberOfProcessors": 1,
+        "TotalPhysicalMemory": 17066790912,
+        "SystemType": "x64-based PC",
+        "PrimaryOwnerName": "adham442@outlook.com",
+        "UserName": "Adham\\adham"
+    },
+    "operating_system_info": {
+        "Caption": "Microsoft Windows 11 Home",
+        "BuildNumber": "22621",
+        "Version": "10.0.22621",
+        "SerialNumber": "00325-96105-35625-AAOEM",
+        "ServicePackMajorVersion": 0,
+        "InstallDate": "20230604144442.000000+180"
+    },
+    "drive_info": [
+        {
+            "C Used Space (GB)": "273.56",
+            "C Total Space (GB)": "273.56191.57",
+            "C Free Space (GB)": "191.57",
+            "Drive Name": "C"
+        },
+        {
+            "D Free Space (GB)": "170.97",
+            "D Total Space (GB)": "294.79170.97",
+            "D Used Space (GB)": "294.79",
+            "Drive Name": "D"
+        }
+    ],
+    "drive_types": [
+        {
+            "FriendlyName": "KINGSTON SNV2S500G",
+            "SerialNumber": "0000_0000_0000_0000_0026_B778_5355_9E25.",
+            "MediaType": "SSD"
+        },
+        {
+            "FriendlyName": "WDC WD5000LUCT-63C26Y0",
+            "SerialNumber": "WD-WX41A15DT39R",
+            "MediaType": "HDD"
+        }
+    ],
+    "system_uptime": {
+        "Ticks": 433063610131,
+        "Days": 0,
+        "Hours": 12,
+        "Milliseconds": 361,
+        "Minutes": 1,
+        "Seconds": 46,
+        "TotalDays": 0.5012310302442129,
+        "TotalHours": 12.029544725861111,
+        "TotalMilliseconds": 43306361.013100006,
+        "TotalMinutes": 721.7726835516667,
+        "TotalSeconds": 43306.361013099995
+    },
+    "device_info": {
+        "battery_status": [
+            {
+                "percentage": 95,
+                "status": "Plugged In"
+            }
+        ],
+        "ram_info": [
+            {
+                "used_percent": "65.4 %",
+                "total_gb": 15.89,
+                "available_gb": 5.5,
+                "used_gb": 10.4,
+                "free_gb": 5.5
+            }
+        ],
+        "ip_mac_info": [
+            {
+                "ip_address": "192.168.100.1",
+                "mac_address": "modifies"
+            }
+        ],
+        "time_zone_info": [
+            {
+                "time_zone": "06:31 PM EEST (UTC+0300) EEST (+0300 DST)"
+            }
+        ]
+    },
+    "smb_sessions": "No active smbSessions",
+    "bit_locker": {
+        "status": "success",
+        "message": "BitLocker-protected volumes found.",
+        "encrypted_volumes": [
+            "D:",
+            "C:"
+        ]
+    },
+    "ip_security": [],
+    "malicious_processes": {
+        "malicious_process": [
+            {
+                "name": "msedge.exe",
+                "pid": "13920",
+                "memory_usage": "405,992"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "13960",
+                "memory_usage": "8,200"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "14116",
+                "memory_usage": "250,212"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "14128",
+                "memory_usage": "53,132"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "14136",
+                "memory_usage": "20,952"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "13568",
+                "memory_usage": "49,096"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "13708",
+                "memory_usage": "40,772"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "9148",
+                "memory_usage": "35,336"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "14348",
+                "memory_usage": "73,532"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "14464",
+                "memory_usage": "82,116"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "14524",
+                "memory_usage": "79,304"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "15028",
+                "memory_usage": "59,948"
+            },
+            {
+                "name": "nvrla.exe",
+                "pid": "15768",
+                "memory_usage": "9,352"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "16288",
+                "memory_usage": "22,228"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "17240",
+                "memory_usage": "22,424"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "3816",
+                "memory_usage": "83,168"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "18732",
+                "memory_usage": "28,428"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "10924",
+                "memory_usage": "42,476"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "17036",
+                "memory_usage": "74,424"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "9988",
+                "memory_usage": "251,296"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "15392",
+                "memory_usage": "53,844"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "12912",
+                "memory_usage": "48,972"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "16992",
+                "memory_usage": "15,952"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "13308",
+                "memory_usage": "24,540"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "8104",
+                "memory_usage": "24,596"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "21736",
+                "memory_usage": "11,188"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "2068",
+                "memory_usage": "6,336"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "3008",
+                "memory_usage": "539,716"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "22420",
+                "memory_usage": "315,016"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "24608",
+                "memory_usage": "77,028"
+            },
+            {
+                "name": "msedge.exe",
+                "pid": "26032",
+                "memory_usage": "28,880"
+            },
+            {
+                "name": "powershell.exe",
+                "pid": "20124",
+                "memory_usage": "69,936"
+            },
+            {
+                "name": "powershell.exe",
+                "pid": "6596",
+                "memory_usage": "69,684"
+            }
+        ]
+    },
+    "malicious_process_by_hash": [
+        {
+            "name": "msedge",
+            "hash": "E919F412155E2FD14FC9DDE9BACE289BBEE56BB56E4FB9AF26BDE75BBB331693",
+            "pid": 26032
+        }
+    ],
+    "admin_accounts": [
+        {
+            "Account": "Account"
+        },
+        {
+            "Account": "-------"
+        },
+        {
+            "Account": "adham"
+        },
+        {
+            "Account": "Administrator"
+        }
+    ],
+    "local_users": [
+        {
+            "Disabled": false,
+            "Name": "adham",
+            "FullName": "adham ayman",
+            "Caption": "Adham\\adham",
+            "Domain": "Adham",
+            "SID": "S-1-5-21-3892009202-2877401636-2765744337-1001"
+        },
+        {
+            "Disabled": true,
+            "Name": "Administrator",
+            "FullName": "",
+            "Caption": "Adham\\Administrator",
+            "Domain": "Adham",
+            "SID": "S-1-5-21-3892009202-2877401636-2765744337-500"
+        },
+        {
+            "Disabled": true,
+            "Name": "DefaultAccount",
+            "FullName": "",
+            "Caption": "Adham\\DefaultAccount",
+            "Domain": "Adham",
+            "SID": "S-1-5-21-3892009202-2877401636-2765744337-503"
+        },
+        {
+            "Disabled": true,
+            "Name": "Guest",
+            "FullName": "",
+            "Caption": "Adham\\Guest",
+            "Domain": "Adham",
+            "SID": "S-1-5-21-3892009202-2877401636-2765744337-501"
+        },
+        {
+            "Disabled": true,
+            "Name": "WDAGUtilityAccount",
+            "FullName": "",
+            "Caption": "Adham\\WDAGUtilityAccount",
+            "Domain": "Adham",
+            "SID": "S-1-5-21-3892009202-2877401636-2765744337-504"
+        }
+    ],
+    "login_history": [
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"SYSTEM\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "SYSTEM",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"LOCAL SERVICE\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "LOCAL SERVICE",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"NETWORK SERVICE\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "NETWORK SERVICE",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"adham\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "adham",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"adham\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "adham",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"SQLTELEMETRY\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "SQLTELEMETRY",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"MSSQLSERVER\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "MSSQLSERVER",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"7F57553E-C18F-4FEC-8055-8E54892CEDB3\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "7F57553E-C18F-4FEC-8055-8E54892CEDB3",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"F707A61C-3C34-42BC-A8A1-A4B8807BA186\" Status Domain = \"NT VIRTUAL MACHINE\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "F707A61C-3C34-42BC-A8A1-A4B8807BA186",
+                "Status": null,
+                "Domain": "NT VIRTUAL MACHINE",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"DWM-1\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "DWM-1",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"DWM-1\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "DWM-1",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"UMFD-0\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "UMFD-0",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        },
+        {
+            "User": {
+                "CimClass": "ROOT/cimv2:Win32_Account",
+                "CimInstanceProperties": "Caption Description InstallDate Name = \"UMFD-1\" Status Domain = \"ADHAM\" LocalAccount SID SIDType",
+                "CimSystemProperties": "Microsoft.Management.Infrastructure.CimSystemProperties",
+                "Caption": null,
+                "Description": null,
+                "InstallDate": null,
+                "Name": "UMFD-1",
+                "Status": null,
+                "Domain": "ADHAM",
+                "LocalAccount": null,
+                "SID": null,
+                "SIDType": null,
+                "PSComputerName": null
+            },
+            "LastLogon": null
+        }
+    ],
+    "last_added_processes": [
+        {
+            "File": "Get-ChildItem",
+            "Created": ": Access to the path 'C:\\Windows\\System32\\WebThreatDefSvc' is denied."
+        },
+        {
+            "File": "At",
+            "Created": "line:3 char:14"
+        },
+        {
+            "File": "+",
+            "Created": "$files = Get-ChildItem -Path C:\\ -File -Recurse | Sort-Object Cre ..."
+        },
+        {
+            "File": "+",
+            "Created": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        },
+        {
+            "File": "+",
+            "Created": "CategoryInfo          : PermissionDenied: (C:\\Windows\\System32\\WebThreatDefSvc:String) [Get-ChildItem], Unauthor"
+        },
+        {
+            "File": "+",
+            "Created": "FullyQualifiedErrorId : DirUnauthorizedAccessError,Microsoft.PowerShell.Commands.GetChildItemCommand"
+        },
+        {
+            "File": "----",
+            "Created": "----"
+        },
+        {
+            "File": "C:\\Windows\\Prefetch\\NET.EXE-61E7A54D.pf",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Prefetch\\NET1.EXE-1C88A7BA.pf",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Users\\adham\\Desktop\\project_beta4\\working_api\\apps_info.json",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Users\\adham\\Desktop\\project_beta4\\working_api\\combined_proc_info.json",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Users\\adham\\Desktop\\project_beta4\\working_api\\scripts\\nativePython\\computer_info.json",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Logs\\waasmedic\\waasmedic.20240511_152120_734.etl",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Users\\adham\\Desktop\\project_beta4\\working_api\\scripts\\nativePython\\sys_info.py",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\System32\\SleepStudy\\ScreenOn\\ScreenOnPowerStudyTraceSession-2024-05-11-18-07-40.etl",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Prefetch\\NVSHIM.EXE-86B25030.pf",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Prefetch\\0.DAT-B5B1671F.pf",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Prefetch\\NVOAWRAPPERCACHE.EXE-1AEB592F.pf",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Prefetch\\MS-TEAMSUPDATE.EXE-43511AC6.pf",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\System32\\SleepStudy\\SleepStudyControlTraceSession.etl",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\System32\\WDI\\{533a67eb-9fb5-473d-b884-958cf4b9c4a3}\\{3c5e6c57-e733-4d6a-8449-682fcf75e8b4}\\snapshot.etl",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\System32\\SleepStudy\\ScreenOn\\ScreenOnPowerStudyTraceSession-2024-05-11-16-15-57.etl",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Temp\\ADHAM-20240511-1615.log",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Logs\\waasmedic\\waasmedic.20240511_131556_838.etl",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Temp\\ADHAM-20240511-1558.log",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Logs\\waasmedic\\waasmedic.20240511_125839_044.etl",
+            "Created": "5..."
+        },
+        {
+            "File": "C:\\Windows\\Logs\\waasmedic\\waasmedic.20240511_125450_303.etl",
+            "Created": "5..."
+        }
+    ]
+}

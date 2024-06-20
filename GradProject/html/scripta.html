@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- ============Icons============= -->
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp"
+      rel="stylesheet"
+    />
+    <!--=============== FONT-AWESOME ===============-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"
+      integrity="sha512-q3eWabyZPc1XTCmF+8/LuE1ozpg5xxn7iO89yfSOd5/oKvyqLngoNGsx8jq92Y8eXJ/IRxQbEC+FGSYxtk2oiw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- ============Css============= -->
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Start Sidebar Section -->
+      <aside>
+        <a href="#" class="logo">
+          <img src="../images/Logo.png" alt="Not-Found" />
+          <h2>scripta</h2>
+        </a>
+
+        <div class="sidebar">
+          <a href="#" class="sidebar__link active highlight">
+            <span class="material-icons-sharp"> dashboard </span>
+            <h3 class="sidebar__link-name">dashboard</h3>
+          </a>
+          <div class="toggle">
+            <a href="#personal-card" class="sidebar__link">
+              <h3 class="sidebar__link-name">Personal Card</h3>
+            </a>
+            <a href="#overview" class="sidebar__link">
+              <h3 class="sidebar__link-name">Overview</h3>
+            </a>
+            <a href="#bios" class="sidebar__link">
+              <h3 class="sidebar__link-name">bios</h3>
+            </a>
+            <a href="#computer-system" class="sidebar__link">
+              <h3 class="sidebar__link-name">computer system</h3>
+            </a>
+            <a href="#operating-system" class="sidebar__link">
+              <h3 class="sidebar__link-name">operating system</h3>
+            </a>
+            <a href="#drive-types" class="sidebar__link">
+              <h3 class="sidebar__link-name">drive types</h3>
+            </a>
+          </div>
+          <a href="./security.html" class="sidebar__link">
+            <span class="material-icons-sharp"> shield </span>
+            <h3 class="sidebar__link-name">security</h3>
+          </a>
+          <a href="./process.html" class="sidebar__link">
+            <span class="material-icons-sharp"> account_tree </span>
+            <h3 class="sidebar__link-name">process management</h3>
+          </a>
+          <a href="apps.html" class="sidebar__link">
+            <span class="material-icons-sharp"> apps </span>
+            <h3 class="sidebar__link-name">apps</h3>
+          </a>
+        </div>
+        <ul class="example-2">
+          <li class="icon-content">
+            <a
+              data-social="spotify"
+              aria-label="Spotify"
+              href="https://www.spotify.com/"
+            >
+              <div class="filled"></div>
+              <i class="fab fa-telegram"></i>
+            </a>
+            <div class="tooltip">Spotify</div>
+          </li>
+          <li class="icon-content">
+            <a
+              data-social="pinterest"
+              aria-label="Pinterest"
+              href="https://www.pinterest.com/"
+            >
+              <div class="filled"></div>
+              <i class="fab fa-facebook"></i>
+            </a>
+            <div class="tooltip">Pinterest</div>
+          </li>
+          <li class="icon-content">
+            <a
+              data-social="dribbble"
+              aria-label="Dribbble"
+              href="https://dribbble.com/"
+            >
+              <div class="filled"></div>
+              <i class="fab fa-github"></i>
+            </a>
+            <div class="tooltip">Dribbble</div>
+          </li>
+          <li class="icon-content">
+            <a
+              data-social="telegram"
+              aria-label="Telegram"
+              href="https://telegram.org/"
+            >
+              <div class="filled"></div>
+              <i class="fab fa-whatsapp"></i>
+            </a>
+            <div class="tooltip">Telegram</div>
+          </li>
+        </ul>
+      </aside>
+      <!-- End Sidebar Section -->
+      <!-- Start Main -->
+      <main>
+        <div class="main-top">
+          <h1 class="main__title">Dashboard</h1>
+          <div class="light-mode">
+            <span class="material-icons-sharp"> light_mode </span>
+            <span class="material-icons-sharp"> dark_mode </span>
+          </div>
+        </div>
+        <!-- Personal Card -->
+        <section class="personal-card" id="personal-card">
+          <div id="c2" class="card">
+            <ul class="card-info">
+              <li><strong>UserName:</strong> Adham\\adham</li>
+              <li><strong>Domain:</strong> WORKGROUP</li>
+              <li><strong>Description:</strong> AT/AT COMPATIBLE</li>
+            </ul>
+          </div>
+
+          <div id="c3" class="card">
+            <ul class="card-info">
+              <li><strong>SystemType:</strong> x64-based PC</li>
+              <li><strong>Manufacturer:</strong> LENOVO</li>
+              <li><strong>Model:</strong>80WK</li>
+              <li><strong>NumberOfProcessors:</strong> 1</li>
+            </ul>
+          </div>
+
+          <div id="c1" class="card">
+            <div class="card-info">
+              <div class="card-avatar">
+                <img src="../images/dashboard-img1.png" alt="" />
+              </div>
+              <div class="card-title">Eslam</div>
+              <div class="card-subtitle">adham442@outlook.com</div>
+            </div>
+          </div>
+        </section>
+        <!-- Start Overview section -->
+        <section class="overview" id="overview">
+          <div class="overview__head">
+            <span class="material-icons-sharp overview__head-icon">
+              dashboard
+            </span>
+            <h2>overview</h2>
+          </div>
+          <div class="overview__boxes">
+            <div class="circular__row-battery">
+              <h4 class="circle-title" style="color: #ff0060">
+                BATTERY STATUS
+              </h4>
+              <svg>
+                <circle
+                  class="track"
+                  cx="100"
+                  cy="100"
+                  r="75"
+                  stroke="#FFB1CE"
+                />
+                <circle
+                  class="progress"
+                  style="stroke: #ff0060"
+                  cx="100"
+                  cy="100"
+                  r="75"
+                  fill="transparent"
+                  data-prog="98"
+                />
+              </svg>
+              <span
+                class="circle-inner"
+                style="color: #ff0060; transform: translate(-34%, 39%)"
+                >0%</span
+              >
+              <ul style="text-align: center">
+                <li><strong>percentage</strong>: 98,</li>
+                <li><strong>status</strong>: Plugged In</li>
+              </ul>
+            </div>
+
+            <div class="overview__box">
+              <span class="material-icons-sharp icon"> grid_view </span>
+              <div class="overview__title">
+                <span class="overview__title-small">Caption</span>
+                <h3 class="overview__title-large">Microsoft Windows 11 Home</h3>
+                <h4><span class="num">2592</span> CurrentClockSpeed</h4>
+              </div>
+            </div>
+          </div>
+          <div class="circular__row">
+            <div class="overview__box">
+              <span class="material-icons-sharp icon"> memory </span>
+              <div class="overview__title">
+                <span class="overview__title-small">cpu info</span>
+                <h3 class="overview__title-large">
+                  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+                </h3>
+                <h4><span class="num">2592</span> CurrentClockSpeed</h4>
+              </div>
+            </div>
+            <div class="circular__row-battery">
+              <h4 class="circle-title" style="color: #6b99ce">RAM INFO</h4>
+              <svg>
+                <circle
+                  class="track"
+                  cx="100"
+                  cy="100"
+                  r="75"
+                  stroke="#D0DFEF"
+                />
+                <circle
+                  class="progress"
+                  style="stroke: #6b99ce"
+                  cx="100"
+                  cy="100"
+                  r="75"
+                  fill="transparent"
+                  data-prog="69"
+                />
+              </svg>
+              <span class="circle-inner" style="color: #6b99ce">0%</span>
+              <ul style="text-align: center">
+                <li><strong>used_percent</strong>: 69.7 %</li>
+                <li><strong>total_gb</strong>: 15.89</li>
+                <li><strong>available_gb</strong>: 4.81</li>
+                <li><strong>used_gb</strong>: 11.08</li>
+                <li><strong>free_gb</strong>: 4.81</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <!-- Start Dashboard Graph -->
+        <div class="dashboard-graph">
+          <canvas id="myChart"></canvas>
+        </div>
+        <section class="bio" id="bios">
+          <h2>Bios Info</h2>
+          <div class="window">
+            <div class="bar">
+              <span class="bar__circle"></span>
+            </div>
+            <div class="window__info">
+              <p class="window__comment"># run this command:</p>
+              <p class="window__prompt">
+                $ Name
+                <span class="command">1.28.0</span>
+              </p>
+              <p class="window__prompt">
+                $ Version
+                <span class="command">DELL - 20170001</span>
+              </p>
+              <p class="window__prompt">
+                $ SMBIOSBIOSVersion
+                <span class="command">1.28.0</span>
+                <span class="terminal_cursor"></span>
+              </p>
+            </div>
+          </div>
+        </section>
+        <section class="computer-system" id="computer-system">
+          <h2>computer system</h2>
+          <div class="window">
+            <div class="bar">
+              <span class="bar__circle"></span>
+            </div>
+            <div class="window__info">
+              <p class="window__comment"># run this command:</p>
+              <p class="window__prompt">
+                $ Name
+                <span class="command">FANKY</span>
+              </p>
+              <p class="window__prompt">
+                $ Domain
+                <span class="command">WORKGROUP</span>
+              </p>
+              <p class="window__prompt">
+                $ Description
+                <span class="command">AT/AT COMPATIBLE</span>
+              </p>
+              <p class="window__prompt">
+                $ Manufacturer
+                <span class="command">Dell Inc.</span>
+              </p>
+              <p class="window__prompt">
+                $ Model
+                <span class="command">G3 3500</span>
+              </p>
+              <p class="window__prompt">
+                $ NumberOfProcessors
+                <span class="command">1</span>
+              </p>
+              <p class="window__prompt">
+                $ TotalPhysicalMemory
+                <span class="command">x64-based PC</span>
+              </p>
+              <p class="window__prompt">
+                $ SystemType
+                <span class="command">null</span>
+              </p>
+              <p class="window__prompt">
+                $ PrimaryOwnerName
+                <span class="command">FANKY\\DELL</span>
+              </p>
+              <p class="window__prompt">
+                $ UserName
+                <span class="command">FANKY</span>
+                <span class="terminal_cursor"></span>
+              </p>
+            </div>
+          </div>
+        </section>
+        <section class="operating-system" id="operating-system">
+          <h2>operating system</h2>
+          <div class="window">
+            <div class="bar">
+              <span class="bar__circle"></span>
+            </div>
+            <div class="window__info">
+              <p class="window__comment"># run this command:</p>
+              <p class="window__prompt">
+                $ Caption
+                <span class="command">Microsoft Windows 11 Home</span>
+              </p>
+              <p class="window__prompt">
+                $ BuildNumber
+                <span class="command">22631</span>
+              </p>
+              <p class="window__prompt">
+                $ Version
+                <span class="command">10.0.22631</span>
+              </p>
+              <p class="window__prompt">
+                $ SerialNumber
+                <span class="command">00325-81851-34533-AAOEM</span>
+              </p>
+              <p class="window__prompt">
+                $ ServicePackMajorVersion
+                <span class="command">0</span>
+              </p>
+              <p class="window__prompt">
+                $ InstallDate
+                <span class="command">20221125162721.000000+120</span>
+                <span class="terminal_cursor"></span>
+              </p>
+            </div>
+          </div>
+        </section>
+        <section class="drive-types" id="drive-types">
+          <h2>drive types</h2>
+          <div class="window">
+            <div class="bar">
+              <span class="bar__circle"></span>
+            </div>
+            <div class="window__info">
+              <p class="window__comment"># run this command:</p>
+              <p class="window__prompt">
+                $ FriendlyName
+                <span class="command">KBG40ZNS512G NVMe KIOXIA 512GB</span>
+              </p>
+              <p class="window__prompt">
+                $ SerialNumber
+                <span class="command"
+                  >0100_0000_0000_0000_8CE3_8E04_00CC_57DF.</span
+                >
+              </p>
+              <p class="window__prompt">
+                $ MediaType
+                <span class="command">SSD</span>
+                <span class="terminal_cursor"></span>
+              </p>
+            </div>
+          </div>
+        </section>
+      </main>
+      <!-- End Main -->
+    </div>
+
+    <!-- ======== JS files ========== -->
+    <script src="https://cdn.jsdelivr.net/npm/libs/Chart.js@3.5.1/dist/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Dashboard graph -->
+    <script>
+      const ctx = document.getElementById("myChart");
+      new Chart(ctx, {
+        type: "bar",
+        data: {
+          labels: [
+            "Telgram",
+            "Blue",
+            "Yellow",
+            "Green",
+            "Purple",
+            "Orange",
+            "edge",
+            "edge",
+            "edge",
+            "edge",
+          ],
+          datasets: [
+            {
+              label: "# Memory Usage",
+              data: [1000, 300, 100, 250, 700, 500, 500, 200, 100, 1000],
+              backgroundColor: "#ff0060",
+              borderWidth: 1,
+            },
+            {
+              label: "# Cpu Usage",
+              data: [
+                402.28125, 410.515625, 365.921875, 279.265625, 180.40625,
+                165.09375,
+              ],
+              backgroundColor: "#FFB1CE",
+              borderWidth: 1,
+            },
+          ],
+        },
+        options: {
+          scales: {
+            y: {
+              beginAtZero: true,
+            },
+          },
+        },
+      });
+    </script>
+    <script src="../app.js"></script>
+  </body>
+</html>
